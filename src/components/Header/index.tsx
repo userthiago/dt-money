@@ -1,4 +1,3 @@
-import React from "react";
 import { HeaderContainer, HeaderContent, NewTransactionButton } from "./styles";
 import logoImg from "../../assets/logo.svg";
 
